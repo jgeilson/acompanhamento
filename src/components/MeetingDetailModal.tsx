@@ -80,7 +80,7 @@ export const MeetingDetailModal: React.FC<MeetingDetailModalProps> = ({
           {/* Header Image Banner */}
           <div className="w-full flex justify-center border-b border-slate-200 pb-3 mb-2">
             <img 
-              src="/cabecalho_boletim.jpg" 
+              src="src/data/cabecalho.png" 
               alt="Secretaria de Estado da Educação - Governo da Paraíba - Escola Cidadã Integral" 
               className="w-full max-h-20 sm:max-h-24 object-contain print:max-h-28"
               referrerPolicy="no-referrer"
